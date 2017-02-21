@@ -1,9 +1,5 @@
 # Personal Information Manager (OO Perl)
 
-This is a project that I did to learn java. I was not happy with Windows media Player and created my own MP3 Player. 
-
-Personal Information Manager (OO Perl)
-
 This is a web application written in object oriented Perl with the primary intention to act as a knowledge base. I used it intensely for almost 10 years and it grew so that it had a the end several modules: 
 
 * Knowledge base
