@@ -1,0 +1,37 @@
+
+div.hiddenVoc{
+   visibility: hidden;
+}
+
+div.MainAreaLanguageAll{
+   position:absolute;
+   left: 100px;
+   top: 100px;
+   border:1px solid #444444;
+}
+
+
+div.language_positioner{
+   position:absolute;
+}
+
+td.vokabel_label{
+
+   font-size: 18pt;
+   padding: 20px;
+}
+
+textarea.vokabel_insert_area_bulk{
+
+   width: 600px;
+   height: 400px;
+
+}
+input.vokabel_button{
+
+   padding: 50px;
+
+}
+
+
+

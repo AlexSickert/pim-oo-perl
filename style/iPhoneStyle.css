@@ -1,0 +1,182 @@
+
+body {
+	color: #444444;
+	background-color: #ffffff;
+	font-family: arial, century gothic,  sans-serif;
+	font-size: 40px;
+}
+
+DIV{
+z-index: 99;
+}
+
+div.logger{
+   position:absolute;
+   display: none;
+   visibility: hidden;
+   width: 850px;
+   height: 500px;
+   background-color: #ffffff;
+   color: red;
+   border: black 1px solid;
+   overflow:scroll;
+   z-index: 9999;
+}
+
+a {
+color: #3333aa;
+font-size: 14px;
+text-decoration: none;
+font-weight:bold;
+}
+
+a:hover
+{
+color: red;
+font-weight:bold;
+}
+
+
+
+table {
+margin: 0px;
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+}
+
+tr {
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+}
+
+tr:hover { 
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+}
+
+tr:active {
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+}
+
+
+td{
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+}
+
+
+td.standardContent{
+border-bottom: black 1px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+}
+
+tdxxxx {
+color: #444444;
+padding-right: 2px;
+padding-left: 2px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-bottom: black 1px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+vertical-align: top;
+text-align: left;
+margin: 0px;
+font-size: 12px;
+text-decoration: none;
+}
+
+td.noborder_bold
+{
+color: #444444;
+padding-right: 0px;
+padding-left: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+vertical-align: top;
+text-align: left;
+margin: 0px;
+font-weight:bold;
+text-decoration: none;
+}
+
+td.the_base_action
+{
+color: red;
+padding-right: 0px;
+padding-left: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-bottom: black 0px solid;
+border-left: black 0px solid;
+border-top: black 0px solid;
+border-right: black 0px solid;
+vertical-align: top;
+text-align: left;
+margin: 0px;
+font-weight:bold;
+text-decoration: none;
+}
+
+td.numbers
+{
+text-align: right;
+}
+
+td.numbers_negative
+{
+color: red;
+}
+
+td.numbers_positive
+{
+color: rgb(0,200,0);
+}
+
+INPUT{
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   border: #888888 1px solid;
+   margin: 1px;
+   font-size: 40px;
+}
+
+SELECT{
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   border: #888888 1px solid;
+   margin: 1px;
+}
+
+TEXTAREA{
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   border: #888888 1px solid;
+   font-family: arial, century gothic,  sans-serif;
+   font-size: 30px;
+   margin: 1px;
+}

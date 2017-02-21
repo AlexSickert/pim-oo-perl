@@ -1,0 +1,136 @@
+
+span.orgDateLable{
+   font-weight: bold;
+   font-size: 14px;
+}
+
+div.orgEvent{
+   border: 1px solid #888888;
+}
+
+input.formulaIdClass{
+   width: 50px;
+}
+
+input.formulaInputClass{
+   width: 80%;
+}
+
+span.dataExport{
+	color: red;
+}
+
+div.crossForm{
+   position:absolute;
+   left: 30%;
+   top: 30%;
+}
+
+div.fileSysStatDiv{
+   position:absolute;
+   width: 70%;
+   border: 1px solid #888888;
+}
+
+div.dataSearchForm{
+   position:absolute;
+   left: 30%;
+   top: 30%;
+}
+
+div.Header{
+   position:absolute;
+   left: 5px;
+   top: 5px;
+}
+
+div.MainAreaTimesheet{
+   position:absolute;
+   left: 100px;
+   top: 100px;
+}
+
+div.MainAreaToDo{
+   position:absolute;
+   border: 1px solid #888888;
+   overflow: auto;
+   left: 100px;
+   top: 70px;
+}
+
+div.MainAreaList{
+   position:absolute;
+   left: 5px;
+   top: 70px;
+   border-bottom: #888888 1px solid;
+   border-left: #888888 1px solid;
+   border-top: #888888 1px solid;
+   border-right: #888888 1px solid;
+}
+
+div.MainAreaForm{
+   position:absolute;
+   left: 5px;
+   top: 70px;
+}
+
+div.dataMailList{
+   width: 150px;
+   height: 200px;
+   border: 1px solid #888888;
+   overflow: auto;
+}
+
+/* this span in used in the ajax method */
+
+td.dataMailList{
+   /* font-weight: bold;  */
+}
+
+TEXTAREA.f_area_m{
+   width: 200px;
+   height: 200px;
+   border-bottom: #888888 1px solid;
+   border-left: #888888 1px solid;
+   border-top: #888888 1px solid;
+   border-right: #888888 1px solid;
+}
+
+
+TEXTAREA.data_todo_area{
+   width: 500px;
+   height: 300px;
+   border-bottom: #888888 1px solid;
+   border-left: #888888 1px solid;
+   border-top: #888888 1px solid;
+   border-right: #888888 1px solid;
+}
+
+TEXTAREA.f_dataform{
+   width: 700px;
+   height: 500px;
+   border-bottom: #888888 1px solid;
+   border-left: #888888 1px solid;
+   border-top: #888888 1px solid;
+   border-right: #888888 1px solid;
+   padding : 15px;
+}
+
+INPUT.f_input{
+   padding-left: 5px;
+   padding-right: 2px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border: #888888 1px solid;
+   margin: 1px;
+}
+
+
+INPUT.f_databutton{
+   padding: 35px;
+   border-bottom: #888888 1px solid;
+   border-left: #888888 1px solid;
+   border-top: #888888 1px solid;
+   border-right: #888888 1px solid;
+}
+

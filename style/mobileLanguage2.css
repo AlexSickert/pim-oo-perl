@@ -1,0 +1,73 @@
+body {
+	font-family: arial, century gothic,  sans-serif;
+	font-size: 80px;
+	text-align: center; 
+}
+
+div.L1{
+	font-weight:bold;
+}
+
+div.L2{
+	font-weight:bold;
+}
+
+div.info{
+	font-size: 20px;
+}
+
+div.content{
+   width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    border: 1px solid #666666;
+    margin-left: -50%;
+    text-align: center; 
+}
+
+table{
+   width: 100%;
+}
+
+td{
+    text-align: center; 
+   padding-bottom: 20px;
+}
+
+input.buttonQuestion{
+   width: 100%;
+   height: 200px;
+	font-size: 80px;
+}
+
+input.buttonNo{
+   height: 200px;
+	font-size: 80px;
+   width: 100%;
+}
+
+input.buttonYes{
+   height: 200px;
+	font-size: 80px;
+   width: 100%;
+}
+
+input.buttonMenuClass{
+   width: 100%;
+   height: 100%;
+}
+
+INPUT{
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   border: #888888 1px solid;
+   margin: 1px;
+   font-size: 40px;
+}
+
+	
+	
+	

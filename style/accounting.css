@@ -1,0 +1,23 @@
+
+
+/* style only for position functionality */
+div.loginContainer{
+position:absolute;
+left: 0px;
+top: 0px;
+}
+
+
+td.acountingNumber{
+
+text-align: right;
+}
+
+td.accHead{
+   font-weight: bold;
+}
+
+
+	
+	
+	
